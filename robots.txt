@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://theomccabe-civilservicepro.github.io/Civil-Service-Pro/sitemap.xml
